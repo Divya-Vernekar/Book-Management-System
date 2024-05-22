@@ -1,0 +1,28 @@
+.form-container {
+  height: 10vh;
+  width: 80vw;
+}
+.form-div {
+  height: 100%;
+  width: 100%;
+  font-family: cursive;
+  /* border-radius: 30px; */
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  background-color: rgb(213, 46, 74);
+}
+
+#add-btn {
+  font-family: cursive;
+
+  height: 40%;
+  width: 5%;
+  background-color: greenyellow;
+}
+.input {
+  height: 20px;
+  width: 100px;
+}

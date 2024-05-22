@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "Harry Potter",
+      "author": "J.K.Rolling",
+      "price": 150
+    },
+    {
+      "id": "3",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyoski",
+      "price": 560
+    },
+    {
+      "id": "4",
+      "title": "Divya",
+      "author": "Vernekar",
+      "price": 150
+    },
+    {
+      "id": "5",
+      "title": "My life in full",
+      "author": "Indra Nooyi",
+      "price": "350"
+    },
+    {
+      "id": "6",
+      "title": "The India story",
+      "author": "Bimaal Jalana",
+      "price": "760"
+    },
+    {
+      "id": "",
+      "title": "",
+      "author": "",
+      "price": ""
+    }
+  ]
+}

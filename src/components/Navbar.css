@@ -1,0 +1,24 @@
+.navbar {
+    height: 11vh;
+    background-color: #4D869C!important;
+    margin-bottom: 50px;
+}
+
+.navbar .container-fluid {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.container-fluid .navbar-brand {
+    color: whitesmoke;
+    margin-right: 60%; /* Increase the right margin to create space between navbar-brand elements */
+}
+
+.navbar .navbar-nav .nav-link {
+    color: whitesmoke;
+    font-size: 20px;
+}
+.navbar .navbar-nav .nav-item {
+    margin-right: 30px; /* Increase the right margin to create space between navbar items */
+}

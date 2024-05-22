@@ -1,0 +1,3 @@
+npx json-server --watch data/db.json --port 8000
+
+copy above code and paste in new terminal and run
